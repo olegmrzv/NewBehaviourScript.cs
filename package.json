@@ -1,0 +1,12 @@
+{
+  "name": "com.olegmrzv.newbehaviourscript",
+  "author": "Oleg Morozov",
+  "displayName": "NewBehaviourScript.cs",
+  "description": "NewBehaviourScript.cs for Unity Game Engine.",
+  "unity": "2019.1",
+  "version": "2020.1.0",
+  "keywords": [
+    "newbehaviourscript"
+  ],
+  "dependencies": {}
+}
